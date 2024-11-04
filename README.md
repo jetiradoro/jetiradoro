@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jetiradoro" alt="jetiradoro" /></a> </p>
 
-- 🔭 Trabajando en **ePolca**
+- 🔭 Trabajando en **[Innova IT](https://www.linkedin.com/company/innova-it-s-l-/)**
 
-- 👨‍💻 All of my projects are available at [https://chuskydev.com](https://chuskydev.com)
+- 👨‍💻 Puedes visitar mi portfolio en [https://chuskydev.com](https://chuskydev.com)
 
-- 📫 How to reach me **jesus@jetiradoro.com**
+- 📫 Si quieres decirme algo, me puedes escribir a:  **jesus@jetiradoro.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
